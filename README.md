@@ -1,7 +1,8 @@
 <h1 align="left">Hey there 👋, I'm Karma Kitten</h1>
-- 🔭 I’m currently working on RapidBSP, WraithGUI, and Kleiner
 
-- 🌱 I’m currently learning **Front-end development, C#, and deeper RE** [RapidBSP](https://github.com/karmakittenx/RapidBSP)
+- 🌱 I’m currently learning **Front-end development, C#, and deeper RE**
+
+- 🔭 I’m currently working on [RapidBSP](https://github.com/karmakittenx/RapidBSP), [WraithGUI](https://github.com/karmakittenx/WraithGUI-public), and [Kleiner](https://kleinerbot.xyz)
 
 - 🤝 I’m looking for help with **MelonLoader on obfuscated Unity games**
 
