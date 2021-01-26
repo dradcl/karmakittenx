@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I am a major Half-Life and Portal nerd**
 
+- ⏰ What I've done in the past **Fortnite modifications, APK tweaking, novice game hacking**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karmakittenx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karmakittenx" height="30" width="40" /></a>
