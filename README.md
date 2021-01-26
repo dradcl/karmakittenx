@@ -1,5 +1,6 @@
 <h1 align="left">Hey there 👋, I'm Karma Kitten</h1>
-- 🔭 I’m currently working on [RapidBSP] (https://github.com/karmakittenx/RapidBSP)
+- 🔭 I’m currently working on 
+[RapidBSP](https://github.com/karmakittenx/RapidBSP)
 
 - 🌱 I’m currently learning **Front-end development, C#, and deeper RE**
 
