@@ -1,5 +1,7 @@
 <h1 align="left">Hey there 👋, I'm Karma Kitten</h1>
 - 🔭 I’m currently working on RapidBSP, WraithGUI, and Kleiner
+  - test
+  - test
 
 - 🌱 I’m currently learning **Front-end development, C#, and deeper RE**
 
