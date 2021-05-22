@@ -1,10 +1,10 @@
-<h1 align="left">Hey there 👋, I'm Karma Kitten</h1>
+<h1 align="left">Hey there 👋</h1>
 
-- 🌱 I’m currently learning **Front-end development, C#, and deeper RE**
+- 🌱 I’m currently learning **Front-end development and C#**
 
 - 🔭 I’m currently working on [RapidBSP](https://github.com/karmakittenx/RapidBSP), [WraithGUI](https://github.com/karmakittenx/WraithGUI), and [Kleiner](https://kleinerbot.xyz)
 
-- 🤝 I’m looking for help with **MelonLoader on obfuscated Unity games**
+- 🤝 I’m looking for help with **Nothing at the moment**
 
 - 📫 How to reach me **Karma Kitten#9999**
 
