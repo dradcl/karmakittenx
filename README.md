@@ -1,12 +1,12 @@
 <h1 align="left">Hey there 👋</h1>
 
-- 🌱 I’m currently learning **Front-end development and C#**
+- 🌱 I’m currently learning **Back-end development (ASP.Net) and C#**
 
 - 🔭 I’m currently working on [RapidBSP](https://github.com/karmakittenx/RapidBSP), [WraithGUI](https://github.com/karmakittenx/WraithGUI), and [Kleiner](https://kleinerbot.xyz)
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
-- 📫 How to reach me **Karma Kitten#3612**
+- 📫 How to reach me **Karma Kitten#9999**
 
 - ⚡ Fun fact **I am a major Half-Life and Portal nerd**
 
