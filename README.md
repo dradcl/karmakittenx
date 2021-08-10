@@ -1,6 +1,6 @@
 <h1 align="left">Hey there 👋</h1>
 
-- 🌱 I’m currently learning **Back-end development (ASP.Net) and C#**
+- 🌱 I’m currently learning **Back-end development (ASP.Net), C#, and Xbox 360 Architecture**
 
 - 🔭 I’m currently working on [RapidBSP](https://github.com/karmakittenx/RapidBSP), [WraithGUI](https://github.com/karmakittenx/WraithGUI), and [Kleiner](https://kleinerbot.xyz)
 
