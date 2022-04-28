@@ -1,16 +1,14 @@
 <h1 align="left">Hey there 👋</h1>
 
-- 🌱 I’m currently learning **Back-end development (ASP.Net), C#, and Xbox 360 Architecture**
+- 🌱 I’m currently learning **Back-end development (ASP.Net), C#, and Python**
 
 - 🔭 I’m currently working on [RapidBSP](https://github.com/karmakittenx/RapidBSP), [WraithGUI](https://github.com/karmakittenx/WraithGUI), and [Kleiner](https://kleinerbot.xyz)
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
-- 📫 How to reach me **Karma Kitten#9999**
-
 - ⚡ Fun fact **I am a major Half-Life and Portal nerd**
 
-- ⏰ What I've done in the past **Fortnite modifications, APK tweaking, novice game hacking**
+- ⏰ What I've done in the past **Fortnite modifications, APK tweaking, automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
